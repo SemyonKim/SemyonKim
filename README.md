@@ -4,7 +4,7 @@
 ![Focus: Java Developer](https://img.shields.io/badge/Focus-Java%20Developer-%23f89820?style=for-the-badge&logo=java&logoColor=white)
 ![Background: Discrete Math & Algorithms](https://img.shields.io/badge/Background-Discrete%20Mathematics%20%26%20Algorithms-lightgrey?style=for-the-badge&logo=matrix&logoColor=black)
 ![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github)
-[![GitLab](https://img.shields.io/badge/GitLab-Semyon__Kim-orange?style=for-the-badge&logo=gitlab)](https://gitlab.com/semyon_kim-group/Semyon_Kim-project)
+[![GitLab](https://img.shields.io/badge/GitLab-Semyon__Kim-orange?style=for-the-badge&logo=gitlab)](https://gitlab.com/semyon_kim-group)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Semyon__Kim-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/SemyonKim)
 
 ---
