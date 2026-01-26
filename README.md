@@ -5,8 +5,6 @@
 ![Background](https://img.shields.io/badge/Background-Discrete%20Mathematics%20%26%20Algorithms-lightgrey?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square)
 
-
-
 ---
 
 ## 🚀 About Me
@@ -28,20 +26,21 @@
   - 1C (junior-level experience, SQL queries)  
 - **Concepts:** Algorithms, Data Structures, Parallel Computing, Graph Theory, Neural Networks
 
-
 ---
 
-## 📚 Learning Journey
-- **Books (current):**
+## 📚 Learning Journey (Java Focus)
+
+- **Books:**
   - *On Java 8* — Bruce Eckel  
   - *Effective Java* — Joshua Bloch  
   - *Clean Code* — Robert C. Martin  
   - *Java: The Complete Reference* — Herbert Schildt  
-- **Courses & Platforms (current):**
-  - HyperSkill, EPAM Learning, CodeGym, Udemy, Coursera  
-  - **LeetCode** practice for algorithmic problem solving  
 
-➡️ *This list will continue to expand as I explore advanced Java frameworks, backend development, and modern software engineering practices.*
+- **Courses & Platforms:**
+  - HyperSkill, EPAM Learning, CodeGym, Udemy, Coursera  
+  - LeetCode practice for algorithmic problem solving  
+
+➡️ *This section highlights my Java journey and will continue to grow as I explore advanced frameworks and backend technologies.*
 
 ---
 
