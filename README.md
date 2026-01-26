@@ -45,7 +45,8 @@
 ---
 
 ## 📂 Featured Projects
-- [Java Practice Examples](https://github.com/SemyonKim/java-practice-examples) Hands-on Java exercises inspired by *On Java 8*, *Effective Java*, and other learning resources. Demonstrates my growing expertise in Java basics, clean code practices, and problem-solving.
+- [Java Practice Examples](https://github.com/SemyonKim/java-practice-examples) — Hands-on Java exercises inspired by *On Java 8*, *Effective Java*, and other learning resources. Demonstrates my growing expertise in Java basics, clean code practices, and problem-solving.
+- [Neural Network Exercises](https://github.com/SemyonKim/Neural-Network-Exercises) — Archived collection of selected university coursework in Python notebooks. Covers the progression from **basic concepts** (perceptron, activation functions, simple classifiers) to **medium-level implementations** (multi-layer perceptrons, backpropagation, convolutional examples). Preserved as an academic archive to illustrate **key** stages of my learning journey.
 - [Simpson’s Rule for Multiple Integrals](https://github.com/SemyonKim/Simpson-s-rule-for-multiple-integral) — Parallelized numerical integration using C++ and std::thread.
 - [Gamma Algorithm (Graph Algorithms)](https://github.com/SemyonKim/Gamma-algorithm) — Collection of graph algorithms (Prim, Steiner, connectivity, Kernighan–Lin, Gamma planar graph flattening) in Python with visualizations.
 
