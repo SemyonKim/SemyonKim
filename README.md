@@ -47,12 +47,32 @@
 ---
 
 ## 📂 Featured Projects
-- [Java Practice Examples](https://github.com/SemyonKim/java-practice-examples) — Hands-on Java exercises inspired by *On Java 8*, *Effective Java*, and other learning resources. Demonstrates my growing expertise in Java basics, clean code practices, and problem-solving.
-- [Neural Network Exercises](https://github.com/SemyonKim/Neural-Network-Exercises) — Archived collection of selected university coursework in Python notebooks. Covers the progression from **basic concepts** (perceptron, activation functions, simple classifiers) to **medium-level implementations** (multi-layer perceptrons, backpropagation, convolutional examples). Preserved as an academic archive to illustrate **key** stages of my learning journey.
-- [Simpson’s Rule for Multiple Integrals](https://github.com/SemyonKim/Simpson-s-rule-for-multiple-integral) — Parallelized numerical integration using C++ and std::thread.
-- [Gamma Algorithm (Graph Algorithms)](https://github.com/SemyonKim/Gamma-algorithm) — Collection of graph algorithms (Prim, Steiner, connectivity, Kernighan–Lin, Gamma planar graph flattening) in Python with visualizations.
 
-- (Upcoming) Neural Network experiments from Bachelor/Master thesis — to be documented soon.
+- [Java Practice Examples](https://github.com/SemyonKim/java-practice-examples) ![Java](https://img.shields.io/badge/Language-Java-red?logo=java)  
+  Hands-on Java exercises inspired by *On Java 8*, *Effective Java*, and other learning resources.  
+  Demonstrates growing expertise in Java basics, clean code practices, and problem-solving.
+
+- [Neural Network Exercises](https://github.com/SemyonKim/Neural-Network-Exercises) ![Python](https://img.shields.io/badge/Language-Python-blue?logo=python) ![Keras](https://img.shields.io/badge/Framework-Keras-orange?logo=keras)  
+  Archived collection of university coursework in Python notebooks.  
+  Covers progression from **basic concepts** (perceptron, activation functions, gradient descent)  
+  to **medium-level labs** (multi-layer perceptrons, backpropagation, convolutional examples, IoU geometry, optimizer comparisons).  
+  Preserved as an academic archive to illustrate key stages of my ML journey.
+
+  - [Digital Marketing Analytics](https://github.com/SemyonKim/Neural-Network-Exercises/tree/main/DigitalMarketing) ![Python](https://img.shields.io/badge/Language-Python-blue?logo=python) ![ML](https://img.shields.io/badge/Domain-Digital%20Marketing-green)  
+  Balanced integration of classical and neural approaches for clustering, classification, regression, and time series.  
+  Includes **Sales & Stores analysis**, **TimeSeries & PanelData models**, and a unified notebook with professional documentation.
+
+  - [Numerical Methods Coursework](https://github.com/SemyonKim/Neural-Network-Exercises/tree/main/NumericalMethods) ![Python](https://img.shields.io/badge/Language-Python-blue?logo=python) ![Math](https://img.shields.io/badge/Domain-Numerical%20Methods-lightgrey)  
+  Archive of 14 homework tasks covering regression, dimensionality reduction, integration, optimization, and image processing.  
+  Includes consolidated notebook with PCA, LDA, ICA, t-SNE, regression, ODEs, and optimization methods.
+
+- [Simpson’s Rule for Multiple Integrals](https://github.com/SemyonKim/Simpson-s-rule-for-multiple-integral) ![C++](https://img.shields.io/badge/Language-C++-purple?logo=c%2B%2B)  
+  Parallelized numerical integration using C++ and `std::thread`.  
+  Demonstrates algorithmic efficiency and parallel computing concepts.
+
+- [Gamma Algorithm (Graph Algorithms)](https://github.com/SemyonKim/Gamma-algorithm) ![Python](https://img.shields.io/badge/Language-Python-blue?logo=python) ![Graphs](https://img.shields.io/badge/Domain-Graph%20Algorithms-yellow)  
+  Collection of graph algorithms (Prim, Steiner, connectivity, Kernighan–Lin, Gamma planar graph flattening) in Python with visualizations.  
+  Highlights algorithm design and graph theory applications.
 
 ---
 
