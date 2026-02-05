@@ -87,3 +87,4 @@
 
 ## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=SemyonKim&show_icons=true&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SemyonKim&theme=tokyonight)
