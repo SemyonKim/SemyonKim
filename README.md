@@ -33,10 +33,15 @@
 ## 📚 Learning Journey (Java Focus)
 
 - **Books:**
+  - *Core Java* — Cay S. Horstmann
+  - *Java: The Complete Reference* — Herbert Schildt  
   - *On Java 8* — Bruce Eckel  
   - *Effective Java* — Joshua Bloch  
-  - *Clean Code* — Robert C. Martin  
-  - *Java: The Complete Reference* — Herbert Schildt  
+  - *Clean Code* — Robert C. Martin
+  - *Java Puzzlers* — Joshua Bloch and Neal Gafter
+  - *100 Java Mistakes and How To Avoid Them* — Tagir Valeev
+  - *Design Patterns* — Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides
+  
 
 - **Courses & Platforms:**
   - HyperSkill, EPAM Learning, CodeGym, Udemy, Coursera  
