@@ -44,7 +44,7 @@
   
 
 - **Courses & Platforms:**
-  - HyperSkill, EPAM Learning, CodeGym, Udemy, Coursera  
+  - HyperSkill, EPAM Learning, LinkedIn Learning, CodeGym, Udemy, Coursera  
   - LeetCode practice for algorithmic problem solving  
 
 ➡️ *This section highlights my Java journey and will continue to grow as I explore advanced frameworks and backend technologies.*
