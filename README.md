@@ -41,6 +41,9 @@
   - *Java Puzzlers* — Joshua Bloch and Neal Gafter
   - *100 Java Mistakes and How To Avoid Them* — Tagir Valeev
   - *Design Patterns* — Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides
+  - *Dive Into DESIGN PATTERNS* - Oleksandr Shvets (e-book: refactoring.guru)
+  - *Head First Design Patterns* - Eric Freeman, Elisabeth Robson
+  - *Maven by Example* - (e-book: sonatype.com)
   
 
 - **Courses & Platforms:**
