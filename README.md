@@ -44,6 +44,7 @@
   - *Dive Into DESIGN PATTERNS* - Oleksandr Shvets (e-book: refactoring.guru)
   - *Head First Design Patterns* - Eric Freeman, Elisabeth Robson
   - *Maven by Example* - (e-book: sonatype.com)
+  - "Java Concurrency in Practice" by Brian Goetz et al.
   
 
 - **Courses & Platforms:**
