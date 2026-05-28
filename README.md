@@ -45,6 +45,7 @@
   - *Head First Design Patterns* - Eric Freeman, Elisabeth Robson
   - *Maven by Example* - (e-book: sonatype.com)
   - *Java Concurrency in Practice* - Brian Goetz et al.
+  - *Spring Start Here* - Laurențiu Spilcă
   
 
 - **Courses & Platforms:**
