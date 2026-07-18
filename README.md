@@ -46,6 +46,8 @@
   - *Maven by Example* - (e-book: sonatype.com)
   - *Java Concurrency in Practice* - Brian Goetz et al.
   - *Spring Start Here* - Laurențiu Spilcă
+  - *Pro Spring 6: An In-Depth Guide to the Spring Framework* - Iuliana Cosmina et al.
+    - ***Comment: The 6th edition functions as an encyclopedic reference that mechanically demonstrates annotations through isolated examples, rather than a cohesive architectural guide for solving real-world, production-grade problems. It fails to explain the why or when behind those decisions within a messy, production-grade codebase.***
   
 
 - **Courses & Platforms:**
